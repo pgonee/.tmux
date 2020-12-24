@@ -5,7 +5,7 @@
 cd && \
 git clone git@github.com:pgonee/.tmux.git && \
 ln -s -f .tmux/.tmux.conf && \
-cp .tmnux/.tmux.conf.local .
+cp .tmux/.tmux.conf.local .
 ```
 
 
